@@ -1,0 +1,2 @@
+Tic-Tac-Toe Web application
+tic-tac-toe web application, we can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, we can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, we can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
